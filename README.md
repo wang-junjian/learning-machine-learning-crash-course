@@ -1,4 +1,4 @@
-# [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
+# [机器学习速成课程笔记](https://developers.google.cn/machine-learning/crash-course/)
    Machine Learning Crash Course
 
 * 机器学习概念
